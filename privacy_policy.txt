@@ -1,0 +1,18 @@
+# Privacy Policy
+
+## Personal Information
+
+We do not collect any personal information from our users.
+
+## Cookies
+
+We do not use cookies to track user behavior.
+
+## Third-Party Services
+
+We may use third-party services like Google Analytics, but we do not share your information with them.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at [email@example.com](mailto:email@example.com).
+

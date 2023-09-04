@@ -1,0 +1,22 @@
+# Terms of Service
+
+## Acceptance of Terms
+
+By accessing our app, you agree to comply with these Terms of Service.
+
+## Modifications
+
+We reserve the right to modify or replace these Terms of Service at any time.
+
+## Termination
+
+We may terminate your access to our app, without cause or notice.
+
+## Governing Law
+
+These Terms of Service are governed by the laws of the United States of America, without regard to its conflict of law principles.
+
+## Contact Us
+
+For any questions about these Terms of Service, please contact us at [email@example.com](mailto:email@example.com).
+
