@@ -11,7 +11,7 @@ import (
 )
 
 var googleOauthConfig = oauth2.Config{
-	RedirectURL:  "http://localhost:8080/home",
+	RedirectURL:  "https://maps-381420.ue.r.appspot.com/home",
 	ClientID:     os.Getenv("GOOGLE_OAUTH_CLIENT_ID"),
 	ClientSecret: os.Getenv("GOOGLE_OAUTH_CLIENT_SECRET"),
 	Scopes: []string{
@@ -64,7 +64,7 @@ func main() {
 }
 
 func redirectToHome(context *gin.Context) {
-	context.Redirect(http.StatusFound, "/home")
+	context.Redirect(http.StatusFound, "/login")
 }
 
 func welcome(context *gin.Context) {

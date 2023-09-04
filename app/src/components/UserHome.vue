@@ -2,6 +2,6 @@
 <template>
   <div>
     <h1>User Home</h1>
-    <a href="http://localhost:8080/logout">Logout</a>
+    <a href="https://maps-381420.ue.r.appspot.com/logout">Logout</a>
   </div>
 </template>
