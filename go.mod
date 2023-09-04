@@ -3,6 +3,7 @@ module github.com/smartify-software/smartify-oauth
 go 1.19
 
 require (
+	github.com/gin-contrib/cors v1.4.0
 	github.com/gin-gonic/gin v1.9.1
 	golang.org/x/oauth2 v0.11.0
 )
